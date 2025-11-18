@@ -1,1 +1,5 @@
 # MIcroservice-Golang
+
+```
+go run .
+```
